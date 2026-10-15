@@ -24,8 +24,9 @@ Imagine you are teaching a brand new programmer a short lesson on variables and 
 - An explanation using an analogy of your own.
 - An example in a Python code block. It has to store a value in a variable,
   pass it to a function, and use what comes back.
-- An explanation of your example, using all six of these terms correctly:
-  **variable**, **data type**, **function definition**, **parameter**,
+- An explanation of your example.
+- In your response, use all of these terms correctly:
+  **function definition**, **parameter**, **argument**,
   **return statement**, and **call** (also known as **invoke**).
 
 ### Response 1

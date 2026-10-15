@@ -6,8 +6,6 @@ Teach a brand new programmer how a value gets stored and reused.
 - [Before We Begin](#before-we-begin)
 - [Setup](#setup)
 - [Instructions](#instructions)
-- [Short Response Questions](#short-response-questions)
-  - [Prompt 1](#prompt-1)
 - [Submitting](#submitting)
 
 ## AI Use on This Assignment
@@ -39,16 +37,11 @@ in your explanation is a gap in your knowledge.
 
 ## Setup
 
-Work in `development/mod-1`. Make a draft branch before you start.
+Clone this repo into `development/mod-1` and `cd` into it. Make a draft branch before you start.
 
 ```sh
 git checkout -b draft
 ```
-
-There is no code to run here, so there is no virtual environment to make.
-Pushing tells GitHub to check whether you have written a response yet, which
-you can see in the **Actions** tab. That check counts words. Your instructor
-reads what you wrote and replies on your pull request.
 
 ## Instructions
 
@@ -61,49 +54,6 @@ feedback on each one:
 - [ ] Uses markdown to enhance readability (preview in VS Code with
       Command/Control + Shift + V)
 - [ ] Is easy to comprehend
-
-## Short Response Questions
-
-### Prompt 1
-
-Imagine you are teaching a brand new programmer a short lesson on variables and functions. Your lesson should have four parts:
-
-- A technical definition of a **function**, quoted and credited to a source you
-  name. The
-  [Python glossary](https://docs.python.org/3/glossary.html#term-function) and
-  [W3Schools](https://www.w3schools.com/python/python_functions.asp) are both
-  fine starting points.
-- An explanation using an analogy of your own: "You can think of a function as
-  a ..."
-- An example in a Python code block (triple backticks). Your example has to
-  store a value in a variable, pass it to a function, and use what comes back.
-- An explanation of your example.
-
-That last part has to use all six of these terms correctly:
-
-- **variable**
-- **data type**
-- **function definition**
-- **parameter**
-- **return statement**
-- **call**, also known as **invoke**
-
-Defining them is the assignment, so we are not defining them here. Together
-they trace the path a value takes, and an explanation that skips one usually
-skips a step so ensure that you use all 6 terms before submitting.
-
-Below is a suggested outline for your response. Change it if you would rather structure
-it differently.
-
-    [Your explanation of the concept with an analogy]
-
-    Check out this example:
-
-    ```python
-    # Your example here
-    ```
-
-    [Your explanation of the example and the syntax]
 
 ## Submitting
 
